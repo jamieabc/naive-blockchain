@@ -1,0 +1,27 @@
+{
+  "name": "naive-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-dev-server": "^3.1.4",
+    "ts-loader": "^4.4.2",
+    "webpack-cli": "^3.0.8",
+    "webpack": "^4.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamieabc/naive-blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamieabc/naive-blockchain/issues"
+  },
+  "homepage": "https://github.com/jamieabc/naive-blockchain#readme"
+}
