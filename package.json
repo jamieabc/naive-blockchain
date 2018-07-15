@@ -9,8 +9,11 @@
     "webpack-cli": "^3.0.8",
     "webpack": "^4.16.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
   "scripts": {
+    "start": "webpack-dev-server --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
